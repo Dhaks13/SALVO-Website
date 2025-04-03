@@ -1,0 +1,7 @@
+{
+  "name": "salvo_website_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
